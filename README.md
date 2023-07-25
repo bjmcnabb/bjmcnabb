@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb)](https://github.com/bjmcnabb/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&show_icons=true&theme=radical)](https://github.com/bjmcnabb/github-readme-stats)
 
 <!--
 **bjmcnabb/bjmcnabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
