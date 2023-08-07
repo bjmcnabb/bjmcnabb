@@ -1,4 +1,3 @@
-### Hi there 👋
 ### I'm an oceanographer with a passion for programming, focused mainly on machine learning and instrument automation, with the occasional dabbling in full stack development.
 
 <p float="left">
