@@ -1,4 +1,4 @@
-### Hi! I'm an oceanographer with a passion for music, soccer & programming! :guitar: :soccer: :ocean: 
+### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 ### My work focuses mainly on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. 
 #
 <p float="left">
