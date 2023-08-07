@@ -1,6 +1,7 @@
 ### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 ### My work focuses mainly on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. 
 #
+##### *ML model predictions of oceanic DMS concentrations in the Southern Ocean, from [published work]([https://www.google.com](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298)) of my PhD thesis*
 <p float="left">
   <img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="475"/>
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="475"/>
