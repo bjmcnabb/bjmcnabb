@@ -2,8 +2,8 @@
 ### I'm an oceanographer with a passion for programming, focused mainly on machine learning and instrument automation, with the occasional dabbling in full stack development.
 
 <p float="left">
-  <img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="400"/>
-  <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="400"/>
+  <img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="600"/>
+  <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="600"/>
 </p>
 
 
