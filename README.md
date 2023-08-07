@@ -1,9 +1,8 @@
 ### Hi there 👋
 ### I'm an oceanographer with a passion for programming, focused mainly on machine learning and instrument automation, with the occasional dabbling in full stack development.
 
-<img src=<'https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'>  height="275">
+<img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="275"/>
 
-![PyTorch_ANN_Fit](https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&show_icons=true&theme=radical)](https://github.com/bjmcnabb/github-readme-stats)
 
 <!--
