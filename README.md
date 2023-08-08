@@ -4,7 +4,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
     <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact"/>
 </a>
-### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
+# Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
 
 
