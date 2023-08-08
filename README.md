@@ -11,8 +11,6 @@ My work mainly focuses on machine learning and instrument automation, with the o
 <p>
   <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=radical&layout=pie&card_width=500" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img width= 500 height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=radical&layout=donut" />
 </a>
 </p>
