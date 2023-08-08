@@ -6,7 +6,6 @@
 &nbsp;
 <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
 &nbsp;
-&nbsp;
 
 #
 
