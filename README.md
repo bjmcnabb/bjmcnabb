@@ -7,14 +7,8 @@ My work mainly focuses on machine learning and instrument automation, with the o
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="475"/>
 </p>
 
-<p>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=radical&layout=pie&card_width=500" />
-  </a>
-  <a>
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=radical&layout=donut&card_width=500" />
-</a>
-</p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=radical&layout=pie)](https://github.com/bjmcnabb/github-readme-stats)
+
 
 <!--
 **bjmcnabb/bjmcnabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
