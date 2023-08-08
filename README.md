@@ -10,7 +10,7 @@
 <p></p>
 <p><i>The map below comprises over 2.4 million pixels (1 pixel = 20 km<sup>2</sup>) generated from the combined averaged neural network and random forest predictions for the 7 month climatology:</i></p>
 </div>
-&nbsp; 
+<p>&nbsp; </p>
 &nbsp; 
 <div>
 <p float="left">
