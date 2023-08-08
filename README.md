@@ -8,7 +8,7 @@ My work mainly focuses on machine learning and instrument automation, with the o
 </p>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&langs_count=15&show_icons=true&theme=radical&hide=jupyter%20notebook)](https://github.com/bjmcnabb/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&langs_count=15&show_icons=true&theme=radical)](https://github.com/bjmcnabb/github-readme-stats)
 #
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&langs_count=15&show_icons=true&theme=radical)](https://github.com/bjmcnabb/github-readme-stats)
 
