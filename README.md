@@ -1,3 +1,26 @@
+<table border="0" cellpadding="0" cellspacing="0">
+        <tr height="16" hidden>
+            <td colspan="16">
+            </td>
+            <td colspan="16">
+            </td>
+            <td colspan="16">
+            </td>
+        </tr>
+        <tr height="16">
+            <td colspan="16">
+                Something
+            </td>
+            <td colspan="16">
+                14
+            </td>
+            <td colspan="16">
+                2020-01-28
+            </td>
+        </tr>
+</table>
+
+
 <table>
     <tr>
         <th></th>
