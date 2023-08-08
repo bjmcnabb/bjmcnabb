@@ -1,42 +1,9 @@
-<table border="0" cellpadding="0" cellspacing="0">
-        <tr height="16" hidden>
-            <td colspan="16">
-            </td>
-            <td colspan="16">
-            </td>
-            <td colspan="16">
-            </td>
-        </tr>
-        <tr height="16">
-            <td colspan="16">
-                Something
-            </td>
-            <td colspan="16">
-                14
-            </td>
-            <td colspan="16">
-                2020-01-28
-            </td>
-        </tr>
-</table>
-
-
-<table>
-    <tr>
-        <th></th>
-        <th></th>
-    </tr>
-    <tr>
-    <td><h3>Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:</h3>
-        <p>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. <p>
-        &nbsp;</td>
-    <td><a align="right"  height="100" href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
-    </a></td>
-  </tr>
-</table>
-
-
+<h3>Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:</h3>
+<p>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. <p>
+&nbsp;
+<a align="right"  height="100" href="https://github.com/anuraghazra/convoychat">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
+</a>
 
 #
 
