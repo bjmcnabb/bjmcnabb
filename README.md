@@ -7,7 +7,7 @@
 <hr>
 <div>
 <p><i>ML model training & predicted 20-year climatology of DMS concentrations in the Southern Ocean, from <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298">my published thesis work</a>.</i></p>
-<p style="font-size: 48;">&#8628;</p>
+<p style="font-size: 48;">&#8595;</p>
 <p><i>The map below comprises over 2.4 million pixels (1 pixel = 20 km<sup>2</sup>) generated from the combined neural network and random forest predictions for the 7 month climatology </i></p>
 </div>
 <div>
