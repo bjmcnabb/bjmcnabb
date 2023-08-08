@@ -1,5 +1,9 @@
 <table>
     <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
     <td><h3>Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:</h3>
         <p>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. <p>
         &nbsp;</td>
