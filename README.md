@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
 </div>
 
-#
+<hr>
 <div>
 <p><i>ML model training & predicted 20-year climatology of DMS concentrations in the Southern Ocean, from <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298">my published thesis work</a>.</i></p>
 <p></p>
