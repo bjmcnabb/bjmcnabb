@@ -1,9 +1,8 @@
 <div>
         <h3 align="left">Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:</h3>
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
         <p align="left">My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. <p>
-        &nbsp;  
-
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
+        &nbsp; 
 </div>
 
 #
