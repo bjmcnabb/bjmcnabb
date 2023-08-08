@@ -1,4 +1,5 @@
-<a height="100" href="https://github.com/anuraghazra/convoychat">
+<div>
+    <a height="100" href="https://github.com/anuraghazra/convoychat">
     <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=400"/>
 </a>
 <div align="left">
@@ -6,6 +7,8 @@
     <p>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. <p>
     &nbsp; 
 </div>
+</div>
+
 
 
 #
