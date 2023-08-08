@@ -1,9 +1,9 @@
 ### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 
 <p style="display: grid; align-items: center;">
-  <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
-  <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact"/>
+  <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
   </a>
 </p>
 
@@ -13,8 +13,6 @@
   <img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="475"/>
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="475"/>
 </p>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact)](https://github.com/bjmcnabb/github-readme-stats) 
 
 <!--
 **bjmcnabb/bjmcnabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
