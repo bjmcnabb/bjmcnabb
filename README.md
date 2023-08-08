@@ -1,12 +1,12 @@
 ### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
-
-
 <a href="https://github.com/anuraghazra/convoychat">
     <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact"/>
 </a>
+
 # Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
 
+#
 
 #### *ML model training & predicted 20-year climatology of DMS concentrations in the Southern Ocean, from [my published thesis work](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298). The map below comprises over 2.4 million pixels (corresponding to 20 km<sup>2</sup>) generated from the combined averaged neural network and random forest predictions for the 7 month climatology:*
 <p float="left">
