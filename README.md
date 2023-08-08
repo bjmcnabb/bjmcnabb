@@ -1,11 +1,12 @@
 ### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
 
-<p style="display: grid; align-items: center;">
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact"/>
-  </a>
-    <h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
-</p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact"/>
+</a>
+### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer:
+<h4>My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development on the side. </h4>
+
 
 <img align="left" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
 
