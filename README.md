@@ -7,6 +7,11 @@
   </a>
 </p>
 
+<img align="left" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
+
+# Headline 
+
+Some text
 
 #### *ML model training & predicted 20-year climatology of DMS concentrations in the Southern Ocean, from [my published thesis work](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298). The map below comprises over 2.4 million pixels (corresponding to 20 km<sup>2</sup>) generated from the combined averaged neural network and random forest predictions for the 7 month climatology:*
 <p float="left">
