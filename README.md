@@ -1,6 +1,6 @@
-<hr>
-### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: 
 
+### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: 
+<hr>
 <div style="text-align: justify; display: flex;">
   <span style="color:red"><h3 float="left" id="None"></h3></span>
   <p float="left">My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development. </p>
