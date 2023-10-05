@@ -1,5 +1,3 @@
-{::options auto_ids="false" /}
-
 <hr>
 <div style="text-align: justify; display: flex;">
   <h3 float="left" id="None">Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: </h3>
