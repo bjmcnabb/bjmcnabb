@@ -1,5 +1,6 @@
 
-### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: 
+#### Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: 
+
 <hr>
 <div style="text-align: justify; display: flex;">
   <span style="color:red"><h3 float="left" id="None"></h3></span>
