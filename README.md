@@ -1,6 +1,6 @@
 <hr>
 <div style="text-align: justify; display: flex;">
-  <h3 float="left" id="None">Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: </h3>
+  <h3 float="left" id="None"><span style="color:red">some *blue* text</span>.Hi! I'm an oceanographer with a passion for music, soccer & programming! :ocean: :guitar: :soccer: :desktop_computer: </h3>
   <p float="left">My work mainly focuses on machine learning and instrument automation, with the occasional dabbling in full stack development. </p>
   <p>&nbsp;  </p>
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bjmcnabb&size_weight=0.5&count_weight=0.5&langs_count=20&show_icons=true&theme=great-gatsby&layout=compact&card_width=450"/>
