@@ -17,12 +17,13 @@
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="490" width="auto"/>
   </p>
 </div>
-<div>
-  <p float="left">
+<div class="row">
+  <div class="column">
   <img src='OSSCAR_deployed_RV_investigator.jpg'  height="200" width="auto"/>
-  <div height="200">🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i>
   </div>
-  </p>
+  <div class="column">
+  <p float="left">🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i></p>
+  </div>
 </div>
 
 
