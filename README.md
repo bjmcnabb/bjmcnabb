@@ -20,7 +20,7 @@
 <div class="row">
     <p float="right">🠋 <i>My redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10562">electrochemical reduction</a> method for underway analysis of dimethyl sulfoxide (DMSO) and interfaced with a prototype chemiluminescence detector developed by my colleague Dr. Ross McCulloch. See the <a href="https://https://github.com/bjmcnabb/OSSCAR">OSSCAR</a> and <a href="https://https://github.com/bjmcnabb/CL-detector">CL-detector</a> repositories below for software controlling both OSSCAR and the chemiluminescence detector.</i></p>
   [Section `OSSCAR`](#OSSCAR)
-  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="620" width="auto"/>
+  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="auto" width="auto"/>
 </div>
 
 
