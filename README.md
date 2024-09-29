@@ -18,7 +18,7 @@
   </p>
 </div>
 <div class="row">
-    <p float="right">🠋 <i>My redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10562">electrochemical reduction</a> method for underway analysis of dimethyl sulfoxide (DMSO) and interfaced with a prototype chemiluminescence detector developed by my colleague Dr. Ross McCulloch. See the "OSSCAR" and "CL-detector" repositories below for software controlling both OSSCAR and the chemiluminescence detector.</i></p>
+    <p float="right">🠋 <i>My redesign of the <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10562">electrochemical reduction</a> method for underway analysis of dimethyl sulfoxide (DMSO) and interfaced with a prototype chemiluminescence detector developed by my colleague Dr. Ross McCulloch. See the "OSSCAR" and "CL-detector" repositories below for software controlling both OSSCAR and the chemiluminescence detector.</i></p>
   <img src='OSSCAR_deployed_RV_investigator.JPG'  height="auto" width="auto"/>
 </div>
 
