@@ -22,7 +22,7 @@
   <img src='OSSCAR_deployed_RV_investigator.jpg'  height="200" width="auto"/>
   </div>
   <div class="column">
-  <p float="left">🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i></p>
+  <p float="right">🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i></p>
   </div>
 </div>
 
