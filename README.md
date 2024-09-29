@@ -20,8 +20,7 @@
 <div>
   <p float="left">
   <img src='OSSCAR_deployed_RV_investigator.jpg'  height="200" width="auto"/>
-  <p>🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i></p>
-  <p><i>The animated map below comprises over 2.4 million pixels (1 pixel = 20 km<sup>2</sup>) compiled from the combined neural network and random forest DMS predictions, using 13 years of data to generate the 7 month climatology.</i></p>
+  🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i>
   </p>
 </div>
 
