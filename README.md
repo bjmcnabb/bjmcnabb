@@ -17,6 +17,11 @@
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="490" width="auto"/>
   </p>
 </div>
+<div>
+  <p float="left">
+  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="490" width="auto"/>
+  </p>
+</div>
 
 
 <!--
