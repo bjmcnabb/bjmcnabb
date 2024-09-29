@@ -19,7 +19,7 @@
 </div>
 <div class="row">
   <div class="column" style="text-align: justify; display: flex;">
-  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="300" width="auto"/>
+  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="490" width="auto"/>
   </div>
   <div class="column" style="text-align: justify; display: flex;">
   <p float="right">🠈 <i>The redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating electrochemical reduction method for analysis of dimethyl sulfoxide (DMSO).</i></p>
