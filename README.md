@@ -19,10 +19,10 @@
 </div>
 <div class="row">
   <div class="column" style="text-align: justify; display: flex;">
-  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="620" width="auto"/>
+    <p float="right">🠉 <i>My redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10562">electrochemical reduction method</a> for underway analysis of dimethyl sulfoxide (DMSO) and interfaced with a prototype chemiluminescence detector developed by my colleague Dr. Ross McCulloch. See the <a href="https://https://github.com/bjmcnabb/OSSCAR/">OSSCAR</a> and <a href="https://https://github.com/bjmcnabb/CL-detector/">CL-detector</a> repositories below for software controlling both OSSCAR and the chemiluminescence detector.</i></p>
   </div>
   <div class="column" style="text-align: justify; display: flex;">
-  <p float="right">🠉 <i>My redesigned <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10039">OSSCAR system</a>, incorportating an <a href="https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10562">electrochemical reduction method</a> for underway analysis of dimethyl sulfoxide (DMSO) and interfaced with a prototype chemiluminescence detector developed by my colleague Dr. Ross McCulloch. See the <a href="https://https://github.com/bjmcnabb/OSSCAR/">OSSCAR</a> and <a href="https://https://github.com/bjmcnabb/CL-detector/">CL-detector</a> repositories below for software controlling both OSSCAR and the chemiluminescence detector.</i></p>
+  <img src='OSSCAR_deployed_RV_investigator.jpg'  height="620" width="auto"/>
   </div>
 </div>
 
