@@ -9,9 +9,6 @@
 <div>
   <p>🠋 <i>ML model training & predicted climatology of dimethyl sulfide (DMS) concentrations in the Southern Ocean, from <a href="https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.12298">my published thesis work</a>.</i></p>
   <p><i>The animated map below comprises over 2.4 million pixels (1 pixel = 20 km<sup>2</sup>) compiled from the combined neural network and random forest DMS predictions, using 13 years of data to generate the 7 month climatology.</i></p>
-</div>
-<p>&nbsp;  </p>
-<div>
   <p float="left">
   <img src='https://user-images.githubusercontent.com/68400556/161632855-8fa55e2e-be69-47d4-94a2-f52e9ad1a0eb.gif'  height="490" width="auto"/>
   <img src='https://user-images.githubusercontent.com/68400556/161633959-1ebbbef7-d62e-46d0-a7e0-d35cf432577e.gif'  height="490" width="auto"/>
